@@ -1,0 +1,15 @@
+table {
+   border: 1px solid black;
+   width: 300px;
+}
+
+th, td {
+   border: 1px solid black;
+}
+td.actions {
+   text-align: center;
+}
+
+td.done {
+   text-decoration: line-through;
+}
